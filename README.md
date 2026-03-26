@@ -4,7 +4,7 @@ Soares-de-Oliveira et al. (2026) Microtubule occupancy at kinetochores links che
 
 bioRxiv preprint: https://doi.org/10.64898/2026.01.26.701783 
 
-Goal of the pipeline is to quantify fluorescence recovery after total or partial photobleaching of MAD1 signals at kinetochores. 
+Goal of the pipeline is to quantify fluorescence recovery after total or partial photobleaching of MAD1 signal at kinetochores. 
 
 To use this repository:
 
